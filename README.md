@@ -1,0 +1,1 @@
+This project aims to generate descriptive captions for images using deep learning techniques. The model leverages InceptionV3 for feature extraction and uses a combination of Bidirectional LSTM and Attention mechanisms to generate captions that describe the content of the images.
